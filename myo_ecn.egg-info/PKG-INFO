@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: myo_ecn
+Version: 1.0
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: keyboard
+Requires-Dist: pyserial
+Requires-Dist: imbalanced-learn
