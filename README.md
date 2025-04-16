@@ -43,6 +43,7 @@ pip install -e .
     Initiate the countdown by:
     *   Pressing the **`S` key** on the keyboard.
     *   OR performing a **double tap** with the hand wearing the armband.
+    
     *For haptics mode*, it is recommended to have your gesture choice ready from the start of the countdown.
 
 4.  **Wait for the Result:**
